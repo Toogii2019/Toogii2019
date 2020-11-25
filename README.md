@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 I am a Network Engineer with 13+ years experience and Full-Stack Software Developer and Python Developer.
-Experience in Designing, Planning and Building, Operating and Maintaining IP Network / Telecommunication. Building a Front-End and Back-End of the Web Application.
+Experienced in Designing, Planning and Building, Operating and Maintaining IP Network / Telecommunication. Ability design and build a Front-End and Back-End of the Web Application.
 Experienced in Data Structures, Algorithms. 
+
+### Area of Expertise
+
+1. Network Engineering
+2. Python Programming
+3. Web Programming (Django, Flask, JavaScript, Node.js, React.js, Bootstrap, react-bootstrap...)
 
 ### Programming Language:
 Python, JavaScript
