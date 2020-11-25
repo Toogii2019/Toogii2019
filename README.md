@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Network Engineer with 13+ years experience and Full-Stack Software Developer and Python Developer.
+
+Experience in Designing, Planning and Building, Operating IP Network / Telecommunication. 
+
+[Link to my portfolio page ](https://toogii-profile-02786.herokuapp.com/)
+
+[Link to my Resume](https://drive.google.com/file/d/1ETUC7lx-GEipR05K_3H9BfdeJE3WX30f/view?usp=sharing)
