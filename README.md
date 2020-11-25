@@ -26,10 +26,13 @@ Experienced in Data Structures, Algorithms.
 3. Web Programming (Django, Flask, JavaScript, Node.js, React.js, Bootstrap, react-bootstrap...)
 
 ### Programming Language:
-Python, JavaScript
+1. Python
+2. JavaScript
 
 ### Spoken Language: 
-Mongolian, English, Russian
+1. Mongolian
+2. English
+3. Russian
 
 [Link to my portfolio page ](https://toogii-profile-02786.herokuapp.com/)
 
