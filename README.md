@@ -19,9 +19,11 @@ I am a Network Engineer with 13+ years experience and Full-Stack Software Develo
 Experience in Designing, Planning and Building, Operating and Maintaining IP Network / Telecommunication. Building a Front-End and Back-End of the Web Application.
 Experienced in Data Structures, Algorithms. 
 
-Programming Language: Python, JavaScript
+### Programming Language:
+Python, JavaScript
 
-Spoken Language: Mongolian, English, Russian
+### Spoken Language: 
+Mongolian, English, Russian
 
 [Link to my portfolio page ](https://toogii-profile-02786.herokuapp.com/)
 
