@@ -26,7 +26,7 @@ Education: Bachelor in Electronics, Masters in Networking and Telecommunication
 1. Network Engineering
 2. Python Programming
 3. Web Programming (Django, Flask, JavaScript, Node.js, React.js, Bootstrap, react-bootstrap...)
-4. Database (MySQL, MongoDB, AWS DynamoDB)
+4. Database (MySQL, MongoDB)
 5. AWS Services (VPC, SG, NACL, SUBNETS, EC2, ELBs, RDS, AWS Sage Maker ...)
 6. Heroku CI/CD
 
