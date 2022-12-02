@@ -35,11 +35,6 @@ Education: Bachelor in Electronics, Masters in Networking and Telecommunication
 1. Python
 2. JavaScript
 
-### Spoken Language: 
-1. Mongolian
-2. English
-3. Russian
-
 [Link to my portfolio page ](https://toogii-profile-02786.herokuapp.com/)
 
 [Link to my Resume](https://drive.google.com/file/d/1ETUC7lx-GEipR05K_3H9BfdeJE3WX30f/view?usp=sharing)
