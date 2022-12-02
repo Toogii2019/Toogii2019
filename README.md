@@ -29,6 +29,7 @@ Education: Bachelor in Electronics, Masters in Networking and Telecommunication
 4. Database (MySQL, MongoDB)
 5. AWS Services (VPC, SG, NACL, SUBNETS, EC2, ELBs, RDS, AWS Sage Maker ...)
 6. Heroku CI/CD
+7. IaaS, Infrastructure as a Code
 
 ### Programming Language:
 1. Python
